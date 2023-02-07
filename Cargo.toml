@@ -1,5 +1,5 @@
 [package]
-name = "tui_tavbiew"
+name = "tui_tabview"
 version = "0.1.0"
 edition = "2021"
 
@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 tui = "0.19"
 crossterm = "0.25"
+csv = "1.1.6"
